@@ -1,16 +1,15 @@
 import React, { Fragment, useState } from 'react'
 import { Button, Card, CardBody, CardImg, CardTitle, Col, Container, FormGroup, Input, Label, Row } from 'reactstrap';
 import Logo from '../Images/logoanh.png';
-import { useHistory } from "react-router-dom";
-
 
 export default function Signin() {
     const [user, setUser] = useState('');
     const [password, setPassword] = useState('');
-    let history = useHistory();
+    //let history = useHistory();
     const startSession = () => {
-        if (user === 'admin' && password === '123')
-            history.push(`/controlglp`)
+        if (user === 'admin' && password === '123') {
+            console.log('bienvenido')
+        }
     }
 
     return (

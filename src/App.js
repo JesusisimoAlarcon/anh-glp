@@ -50,7 +50,7 @@ function App() {
           <img src={Logo} alt="" width='150' />
           <Navbar color="light" light expand="md">
             <NavbarBrand
-              href="/"
+              href="/inicio"
             //onClick={() => history.push('/')}
             >
               {'CONTROL GLP'}
