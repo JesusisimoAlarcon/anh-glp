@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jesusisimoalarcon.github.io/anh-glp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jesusisimoalarcon.github.io/anh-glp/static/js/main.363d3f33.chunk.js",
+    "main.js.map": "/jesusisimoalarcon.github.io/anh-glp/static/js/main.363d3f33.chunk.js.map",
+    "runtime-main.js": "/jesusisimoalarcon.github.io/anh-glp/static/js/runtime-main.1ef51f76.js",
+    "runtime-main.js.map": "/jesusisimoalarcon.github.io/anh-glp/static/js/runtime-main.1ef51f76.js.map",
+    "static/css/2.d2b12490.chunk.css": "/jesusisimoalarcon.github.io/anh-glp/static/css/2.d2b12490.chunk.css",
+    "static/js/2.cca4a348.chunk.js": "/jesusisimoalarcon.github.io/anh-glp/static/js/2.cca4a348.chunk.js",
+    "static/js/2.cca4a348.chunk.js.map": "/jesusisimoalarcon.github.io/anh-glp/static/js/2.cca4a348.chunk.js.map",
+    "static/js/3.85f00965.chunk.js": "/jesusisimoalarcon.github.io/anh-glp/static/js/3.85f00965.chunk.js",
+    "static/js/3.85f00965.chunk.js.map": "/jesusisimoalarcon.github.io/anh-glp/static/js/3.85f00965.chunk.js.map",
+    "index.html": "/jesusisimoalarcon.github.io/anh-glp/index.html",
+    "static/css/2.d2b12490.chunk.css.map": "/jesusisimoalarcon.github.io/anh-glp/static/css/2.d2b12490.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/jesusisimoalarcon.github.io/anh-glp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cca4a348.chunk.js.LICENSE.txt": "/jesusisimoalarcon.github.io/anh-glp/static/js/2.cca4a348.chunk.js.LICENSE.txt",
+    "static/media/garrafa.80849e85.png": "/jesusisimoalarcon.github.io/anh-glp/static/media/garrafa.80849e85.png",
+    "static/media/garrafas.61fbe955.png": "/jesusisimoalarcon.github.io/anh-glp/static/media/garrafas.61fbe955.png",
+    "static/media/gas.ad7052bd.png": "/jesusisimoalarcon.github.io/anh-glp/static/media/gas.ad7052bd.png",
+    "static/media/logoanh.cb217faa.png": "/jesusisimoalarcon.github.io/anh-glp/static/media/logoanh.cb217faa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef51f76.js",
+    "static/css/2.d2b12490.chunk.css",
+    "static/js/2.cca4a348.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.363d3f33.chunk.js"
+  ]
+}
